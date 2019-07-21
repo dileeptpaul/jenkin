@@ -7,6 +7,6 @@ public class SampleTest {
 
 	@Test
 	public void firstTest(){
-		Assert.assertEquals("welcome", "welcome");
+		Assert.assertEquals("welcome", "welcome1");
 	}
 }
